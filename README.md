@@ -31,7 +31,7 @@ ALX Software Engineering Program ;Sorting Algorithms
 <li>You must use the following sequence of intervals (a.k.a the Knuth sequence)
   <ul><li>n+1 = n * 3 + 1</li>
     <li>1, 4, 13, 40, 121, ...</li>
- </li>
+ </li></ul>
 <li>You’re expected to print the array each time you decrease the interval</li>
 </ul></p>
 <p>101-cocktail_sort_list.c: Write a function that sorts a doubly linked list of integers in ascending order using the Cocktail shaker sort algorithm
